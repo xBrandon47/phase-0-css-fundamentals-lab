@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+  color: brown;
+}
+
+img {
+  margin: 0 auto;
+}
+
+nav {
+  padding: 0 10px;
+  background-color: brown;
+
+}
+
+a {
+  color: burlywood;
+}
+
+#details div {
+  background-color: bisque;
+  text-align: center;
+  text-decoration-color: aquamarine;
+
+}
